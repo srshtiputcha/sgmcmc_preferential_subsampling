@@ -1,0 +1,61 @@
+# temp/intermediate files #
+###########################
+*.swp
+*.swo
+*.bak
+*.aux
+*.nav
+*.out
+*.snm
+*.toc
+*~
+**/.ipynb_checkpoints/*
+
+# compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.pyc
+*.pyo
+
+# LaTeX Bibliography Files #
+############################
+*.bbl
+*.bcf
+*.blg
+#
+# LaTeXmk Files #
+############################
+*.fdb_latexmk
+*.fls
+
+# packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.egg-info
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# Generated output #
+######################
+*.csv
+
+
+

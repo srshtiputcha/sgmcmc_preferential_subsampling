@@ -1,0 +1,11 @@
+Running SGLD and SGLD-PS on 1%, 5% and 10% batch-sizes for synthetic bivariate Gaussian data (N=1000)
+
+Running order of notebooks:
+1. Running MCMC - bvg_synth_sgld.ipynb 
+2. Plotting comparison using KL divergence - bvg_plots.ipynb 
+
+Figures: ./fig/ 
+Output: CSV files stored in ./out/
+
+
+

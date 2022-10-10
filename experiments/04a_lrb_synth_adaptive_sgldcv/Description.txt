@@ -1,0 +1,13 @@
+Running SGLD-CV, SGLD-CV-PS, ASGLD-CV and ASGLD-CV-PS on synthetic balanced logistic regression data - with 0.1% * N batchsize
+
+Running order of notebooks:
+1. Running fixed subsample methods - lrb_synth_sgldcv.ipynb
+2. Running adaptive subsampling methods -  lrb_synth_adaptive_sgldcv.ipynb
+3. Computing KSD - lrb_synth_KSD.ipynb 
+4. Plotting comparison of KSD and adaptive subsampling - lrb_synth_plotting.ipynb 
+
+Figures: ./fig/ 
+Output: CSV files stored in ./out/
+
+
+

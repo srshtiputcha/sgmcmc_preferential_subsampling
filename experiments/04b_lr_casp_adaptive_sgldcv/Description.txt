@@ -1,0 +1,13 @@
+Running SGLD-CV, SGLD-CV-PS, ASGLD-CV and ASGLD-CV-PS on casp data - with 0.1% * N batchsize
+
+Running order of notebooks:
+1. Running fixed subsample methods  - lr_casp_sgldcv.ipynb
+2. Running adaptive subsampling methods -  lrb_casp_adaptive_sgldcv.ipynb
+3. Computing KSD - lr_casp_KSD.ipynb 
+4. Plotting comparison of KSD and adaptive subsampling - lr_casp_plotting.ipynb 
+
+Figures: ./fig/ 
+Output: CSV files stored in ./out/
+
+
+

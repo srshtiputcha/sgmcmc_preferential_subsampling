@@ -1,0 +1,13 @@
+Running SGLD, SGLD-CV, SGLD-PS and SGLD-CV-PS on the covertype dataset - with 0.1% * N batchsize
+
+Running order of notebooks:
+1. Running MCMC - lrb_covtype_sgldcv.ipynb 
+2. Computing log-loss - lrb_covtype_ll.ipynb - 
+3. Computing KSD - lrb_covtype_KSD.ipynb 
+4. Plotting comparison of KSD and log-loss - lrb_covtype_plotting.ipynb 
+
+Figures: ./fig/ 
+Output: CSV files stored in ./out/
+
+
+

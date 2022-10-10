@@ -1,0 +1,13 @@
+Plotting stochastic gradient comparisons
+
+Running order of notebooks:
+1. Synthetic bivariate Gaussian data - toy_bvg_gradient_comp.ipynb 
+2. Synthetic balanced logistic regression data - toy_lrb_gradient_comp.ipynb
+3. Synthetic imbalanced logistic regression data - lrib_gradient_comp.ipynb 
+4. Plotting comparison of pseudo-variance - plotting_gradient_comparison.ipynb 
+
+Figures: ./fig/ 
+Output: CSV files stored in ./out/
+
+
+

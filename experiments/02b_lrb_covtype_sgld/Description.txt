@@ -1,0 +1,12 @@
+Running SGLD and SGLD-PS on 1%, 5% and 10% batch-sizes on the covertype dataset
+
+Running order of notebooks:
+1. Running MCMC - lrb_covtype_sgld.ipynb 
+2. Computing KSD - lrb_covtype_KSD.ipynb
+3. Plotting comparison using KSD - lrb_covtype_plotting.ipynb 
+
+Figures: ./fig/ 
+Output: CSV files stored in ./out/
+
+
+

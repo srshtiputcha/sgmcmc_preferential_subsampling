@@ -1,0 +1,12 @@
+Running SGLD, SGLD-PS, SGLD-CV and SGLD-CV-PS for 0.1% batch-size on the casp dataset
+
+Running order of notebooks:
+1. Running MCMC - lr_casp_sgldcv.ipynb 
+2. Computing KSD - lr_casp_KSD.ipynb
+3. Plotting comparison using KSD - lr_casp_plotting.ipynb 
+
+Figures: ./fig/ 
+Output: CSV files stored in ./out/
+
+
+
