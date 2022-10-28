@@ -1,6 +1,6 @@
 # sgmcmc_preferential_subsampling
 
-## Code for SGMCMC Preferential Subsampling
+### Code for Preferential Subsampling with SGLD
 
 All code is written in `Python 3.7x` and the key list of module requirements are provided in `requirements.txt`.
 
