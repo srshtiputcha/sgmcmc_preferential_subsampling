@@ -24,7 +24,7 @@ fi
 if [ -d "./data/real" ]; then
 	echo "Real data directory exists"	
 else
-    mkdir ./data/synthetic/
+    mkdir ./data/real/
 fi
 
 (

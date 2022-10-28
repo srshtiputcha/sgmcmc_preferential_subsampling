@@ -17,7 +17,7 @@ if __name__ == "__main__":
     #extract file paths 
     path=arguments["--path-to-data"]
     os.chdir(path)
-    file = 'casp.csv'
+    file = 'CASP.csv'
   
     #preprocess raw data
     casp_df = pd.read_csv(file).dropna()
